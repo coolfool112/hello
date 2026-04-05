@@ -157,7 +157,7 @@ public class NamanMandley {
 | Platform | Link |
 |----------|------|
 | 📧 Email | [0112msnm257@gmail.com](mailto:0112msnm257@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/naman-mandley](https://linkedin.com/in/naman-mandley) |
+| 💼 LinkedIn | [linkedin.com/in/naman-mandley]([https://linkedin.com/in/naman-mandley](https://www.linkedin.com/in/naman-mandley-78aa65217/)) |
 | 🐙 GitHub | [github.com/coolfool112](https://github.com/coolfool112) |
 
 <br/>
