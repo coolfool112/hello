@@ -155,21 +155,7 @@ public class NamanMandley {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coolfool112&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolfool112&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coolfool112&theme=tokyonight&hide_border=true&background=0d1117" />
-
 </div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/coolfool112/coolfool112/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> **Note:** To enable the snake animation, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.
 
 ---
 
