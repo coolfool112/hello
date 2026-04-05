@@ -91,8 +91,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coolfool112&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolfool112&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coolfool112&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=coolfool112&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -108,9 +108,8 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coolfool112&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=coolfool112&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
